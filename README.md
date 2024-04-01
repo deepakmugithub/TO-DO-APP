@@ -31,13 +31,13 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 
 ## How to test
 
-You can access the project here: https://
+You can access the project here: https://vercel.com/deepakmugithubs-projects/to-do-app
 
 Or run on your machine:
 
 clone project
 ```
-git clone https://github.com/aridsm/tasks-app.git
+[git clone https://github.com/deepakmugithub/TO-DO-APP.git]
 ```
 go to projet
 ```
